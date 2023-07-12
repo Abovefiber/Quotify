@@ -1,0 +1,1 @@
+Simply click the "Quotify.exe" to run the application
